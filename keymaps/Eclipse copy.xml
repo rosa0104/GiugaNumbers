@@ -1,0 +1,7 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="GotoBookmark7" />
+</keymap>
